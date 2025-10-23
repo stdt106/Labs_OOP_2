@@ -17,7 +17,6 @@ public:
         for (size_t i = 0; i < size; i++) {
             digits[i] = v;
         }
-        //std::cout << "Created Four with default digits = '0' with " << size << " digits." << std::endl;
     }
 
     Four(const std::initializer_list<unsigned char> &v) {
@@ -38,14 +37,12 @@ public:
             }
             digits[ind++] = dig;
         }
-        //std::cout << "Created Four from initializer_list with " << size << " digits." << std::endl;
     }
 
     Four(const std::string &str) {
         size = str.length();
         if (size == 0) {
             digits = nullptr;
-            //std::cout << "Created empty Four from string" << std::endl;
             return;
         }
         digits = new unsigned char[size];
@@ -60,7 +57,6 @@ public:
             }
             digits[i] = c - '0';
         }
-        //std::cout << "Created Four from string with " << size << " digits." << std::endl;   
     }
 
     Four(const Four &other) {
@@ -102,7 +98,6 @@ public:
 
     virtual ~Four() noexcept {
         delete[] digits;
-        //std::cout << "Destructor called" << std::endl;
     }
 
     std::string toString() const {
