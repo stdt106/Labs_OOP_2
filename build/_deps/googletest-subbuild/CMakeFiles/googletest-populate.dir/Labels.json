@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/admin/VScode/laba2/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate"
+		},
+		{
+			"file" : "C:/Users/admin/VScode/laba2/build/_deps/googletest-subbuild/CMakeFiles/37fd90dab7cf2d32f5f8b35e2a72eb9c/googletest-populate.rule"
+		},
+		{
+			"file" : "C:/Users/admin/VScode/laba2/build/_deps/googletest-subbuild/CMakeFiles/3930682b26ba2fb24e926c20996f2311/googletest-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/admin/VScode/laba2/build/_deps/googletest-subbuild/CMakeFiles/f7e883566a8d8cf68b0b551b62718c91/googletest-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/admin/VScode/laba2/build/_deps/googletest-subbuild/CMakeFiles/f7e883566a8d8cf68b0b551b62718c91/googletest-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/admin/VScode/laba2/build/_deps/googletest-subbuild/CMakeFiles/f7e883566a8d8cf68b0b551b62718c91/googletest-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/admin/VScode/laba2/build/_deps/googletest-subbuild/CMakeFiles/f7e883566a8d8cf68b0b551b62718c91/googletest-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/admin/VScode/laba2/build/_deps/googletest-subbuild/CMakeFiles/f7e883566a8d8cf68b0b551b62718c91/googletest-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/admin/VScode/laba2/build/_deps/googletest-subbuild/CMakeFiles/f7e883566a8d8cf68b0b551b62718c91/googletest-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/admin/VScode/laba2/build/_deps/googletest-subbuild/CMakeFiles/f7e883566a8d8cf68b0b551b62718c91/googletest-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/admin/VScode/laba2/build/_deps/googletest-subbuild/CMakeFiles/f7e883566a8d8cf68b0b551b62718c91/googletest-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest-populate"
+		],
+		"name" : "googletest-populate"
+	}
+}
